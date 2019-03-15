@@ -1493,7 +1493,7 @@ body {
 .cid-rhXP2FJqkj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rhXP2FJqkj .card-box {
   padding: 0 2rem;
@@ -1529,53 +1529,6 @@ body {
 .cid-rhXP2FJqkj .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
-}
-.cid-riPzoOlcId {
-  background-image: url("../../../assets/images/trifecta-4-1280x604.png");
-}
-.cid-riPzoOlcId .mbr-text,
-.cid-riPzoOlcId .mbr-section-btn {
-  color: #232323;
-}
-.cid-riPzoOlcId H1 {
-  color: #ffffff;
-}
-.cid-riPzoOlcId .mbr-text,
-.cid-riPzoOlcId .mbr-section-btn B {
-  color: #ffffff;
-}
-.cid-riPECf0HpX {
-  background: #ffffff;
-}
-.cid-riPECf0HpX .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-riPECf0HpX .video-block {
-    width: 100% !important;
-  }
-}
-.cid-rkduOED9MX {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background-2000x1125.jpg");
-}
-.cid-rkduOED9MX .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rkduOED9MX .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rkduOED9MX .mbr-figure img {
-    width: 100% !important;
-  }
 }
 .cid-rkdW588Vff {
   padding-top: 90px;
